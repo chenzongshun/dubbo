@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>czs</groupId>
-    <artifactId>spring-dubbo-annotation-consumer</artifactId>
+    <artifactId>spring-annotation-consumer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -15,7 +15,7 @@
     <dependencies>
         <dependency>
             <groupId>czs</groupId>
-            <artifactId>spring-dubbo-annotation-common</artifactId>
+            <artifactId>spring-annotation-common</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <!--spring-->
