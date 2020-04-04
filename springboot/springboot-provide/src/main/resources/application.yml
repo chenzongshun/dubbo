@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+dubbo:
+  application:
+    name: springboot-provide
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  protocol:
+    port: 8877
+    name: dubbo
