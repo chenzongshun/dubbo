@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-dubbo-annotation/spring-dubbo-annotation-common/target/
+/spring-dubbo-annotation/spring-dubbo-annotation-consumer/target/
+/spring-dubbo-annotation/spring-dubbo-annotation-provide/target/

@@ -1,0 +1,1 @@
+这是消费者，消费注册在zookepper中的dubbo服务
